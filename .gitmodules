@@ -1,3 +1,6 @@
 [submodule "스프링 부트 - 핵심 원리와 활용"]
 	path = 스프링 부트 - 핵심 원리와 활용
 	url = https://github.com/my-own-study/spring-boot.git
+[submodule "스프링 시큐리티 OAuth2"]
+	path = 스프링 시큐리티 OAuth2
+	url = https://github.com/my-own-study/spring-security-oauth2.git
