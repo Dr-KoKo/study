@@ -4,3 +4,6 @@
 [submodule "스프링 시큐리티 OAuth2"]
 	path = 스프링 시큐리티 OAuth2
 	url = https://github.com/my-own-study/spring-security-oauth2.git
+[submodule "스프링 핵심 원리 - 고급편"]
+	path = 스프링 핵심 원리 - 고급편
+	url = https://github.com/my-own-study/spring-advanced.git
