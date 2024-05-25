@@ -13,3 +13,6 @@
 [submodule "스프링 핵심 원리 - 기본편"]
 	path = 스프링 핵심 원리 - 기본편
 	url = https://github.com/my-own-study/spring-core.git
+[submodule "스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술"]
+	path = 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
+	url = https://github.com/my-own-study/spring-mvc-1.git
