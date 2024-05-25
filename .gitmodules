@@ -31,3 +31,6 @@
 [submodule "자바 ORM 표준 JPA 프로그래밍 - 기본편"]
 	path = 자바 ORM 표준 JPA 프로그래밍 - 기본편
 	url = https://github.com/my-own-study/jpa-core.git
+[submodule "실전! Querydsl"]
+	path = 실전! Querydsl
+	url = https://github.com/my-own-study/jpa-querydsl.git
