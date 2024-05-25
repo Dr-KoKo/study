@@ -22,3 +22,6 @@
 [submodule "스프링 DB 1편 - 데이터 접근 핵심 원리"]
 	path = 스프링 DB 1편 - 데이터 접근 핵심 원리
 	url = https://github.com/my-own-study/spring-db-1.git
+[submodule "스프링 DB 2편 - 데이터 접근 활용 기술"]
+	path = 스프링 DB 2편 - 데이터 접근 활용 기술
+	url = https://github.com/my-own-study/spring-db-2.git
