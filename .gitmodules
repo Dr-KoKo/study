@@ -34,3 +34,6 @@
 [submodule "실전! Querydsl"]
 	path = 실전! Querydsl
 	url = https://github.com/my-own-study/jpa-querydsl.git
+[submodule "test-driven-development"]
+	path = test-driven-development
+	url = https://github.com/my-own-study/test-driven-development.git
