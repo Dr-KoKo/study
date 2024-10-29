@@ -37,3 +37,6 @@
 [submodule "테스트 주도 개발 시작하기"]
 	path = 테스트 주도 개발 시작하기
 	url = https://github.com/my-own-study/test-driven-development.git
+[submodule "견고한 결제 시스템 구축"]
+	path = 견고한 결제 시스템 구축
+	url = https://github.com/my-own-study/payment-service.git
